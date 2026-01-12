@@ -1,4 +1,4 @@
-# Corner Clock (macOS) 
+# Corner Clock(Clone)
 
 **Corner Clock** is a lightweight, native macOS utility designed for users who prefer "Auto-hide Menu Bar" or full-screen workflows. It elegantly displays the time in the top-right corner of your screen and intelligently hides itself to avoid overlapping with the system menu bar.
 
